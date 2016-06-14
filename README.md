@@ -1,2 +1,5 @@
 # HELLO_WORLD
-My_first_repository
+
+Hi all!
+
+I'm rado, I'm from Madagascar, I'm noob from coding so i subscribe to freecodecamp
